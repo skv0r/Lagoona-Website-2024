@@ -24,7 +24,7 @@
     git clone https://github.com/skv0r/Lagoona-Website-2024.git
     ```
 
-2. Запустите проект в открытием index.html:
+2. Запустите проект открытием index.html:
 
 
 ### Структура проекта
